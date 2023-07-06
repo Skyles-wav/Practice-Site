@@ -8,5 +8,5 @@ This site, was a challeng proposed for my teacher Gustavo Guanabara (gustavoguan
 
 anyway, have a good day, afternoon or night! :)
 
-ALERT: This site are in Portuguese. 
+ALERT: This site are in Portuguese. And my code not are end. 
 
