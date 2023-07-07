@@ -49,6 +49,15 @@ p{
     
 }
 
+div{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    text-indent: 30px;
+    }
+
 ul{
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -92,12 +101,5 @@ ul{
 #u{
     color: white;
     text-align: center;
-}
-
-div#id{
-    
-    display: inline-block;
-    vertical-align: middle;
-    
 }
 
