@@ -62,21 +62,21 @@ ul{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#a{
+main#a{
     background-image: linear-gradient(to bottom, #57B678, #1A5A37);
     height: 170px;
     padding: 2px;  
 }
-#b{
+h1#b{
     font-family: 'Bebas neue', 'sans-serif';
     text-align: center;
     color: white;
 }
-#c{
+p#c{
     text-align: center;
     color: white;
 }
-#d{
+main#d{
     width: 980px;
     margin: auto;
     padding: 10px;
@@ -98,8 +98,5 @@ ul{
     color: #0f6a38;
     font-weight: bold;
 }
-#u{
-    color: white;
-    text-align: center;
-}
+
 
