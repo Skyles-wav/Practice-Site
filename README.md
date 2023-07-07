@@ -10,6 +10,7 @@ anyway, have a good day, afternoon or night! :)
 
 
 ----------------------------------------------------Notifications------------------------------------------------------------------
+
 Notification 1: This site are in Portuguese.
 
 Notification 2: My code is not ended.
