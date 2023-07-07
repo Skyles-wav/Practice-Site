@@ -8,5 +8,6 @@ This site, was a challenge proposed for my teacher Gustavo Guanabara (gustavogua
 
 anyway, have a good day, afternoon or night! :)
 
-ALERT: This site are in Portuguese. And my code not are end. 
+Notification: This site are in Portuguese.
+Notification: My code is not ended.
 
