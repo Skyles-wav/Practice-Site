@@ -4,9 +4,14 @@ Ok, i'm here only for say that I've been studying about Git and GitHub, and i pr
 
 i started my studs about Python and JavaScript recently and is really gratifying the feeling of solving questions about programation.
 
-This site, was a challeng proposed for my teacher Gustavo Guanabara (gustavoguanabara here in GitHub), and basically if it consisted in make a web page to speak about the android's history. I admit that i don't ended this project but i intend end a some day.
+This site, was a challenge proposed for my teacher Gustavo Guanabara (gustavoguanabara here in GitHub), and basically if it consisted in make a web page to speak about the android's history. I admit that i don't ended this project but i intend end a some day.
 
 anyway, have a good day, afternoon or night! :)
 
-ALERT: This site are in Portuguese. And my code not are end. 
+
+----------------------------------------------------Notifications------------------------------------------------------------------
+
+Notification 1: This site are in Portuguese.
+
+Notification 2: My code is not ended.
 
